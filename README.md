@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Live Demo
-👉 **[Click here to try the live demo](https://42aa7c415fee983c39.gradio.live)**
+👉 **[Click here to try the live demo](https://42cc49234fba769e17.gradio.live)**
 
 ---
 
